@@ -170,4 +170,4 @@ This project demonstrates the effectiveness of CNNs for speech emotion recogniti
 | Archita Goyal       | 230187   | architag23@iitk.ac.in   |
 | Harshpreet Kaur     | 230464   | harshpreet23@iitk.ac.in |
 
-This Project was completed the Course Project of the course **EE708** offered in **Semester 2024-25/II** at **Indian Institute of Technology (IIT), Kanpur** under **[Professsor Rajesh M. Hegde](https://rajeshmhegde.com/)**.
+This Project was completed the Course Project of the course **EE708** offered in **Semester 2024-25/II** at **Indian Institute of Technology (IIT), Kanpur** under Prof. **[Rajesh M. Hegde](https://rajeshmhegde.com/)**.
