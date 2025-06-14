@@ -159,6 +159,8 @@ This project demonstrates the effectiveness of CNNs for speech emotion recogniti
 - Using pretrained audio feature extractors
 
 ---
+## Contributors
+
 
 | Name                | Roll no. | Email Id                |
 | ------------------- | -------- | ----------------------- |
