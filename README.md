@@ -91,7 +91,7 @@ The final model is a **Convolutional Neural Network (CNN)** with **depthwise sep
 
 ### Test Set (Actors 20–24):
 
-- **Accuracy**: 62.33%
+- **Accuracy**: 72.33%
 - **Per-Emotion Performance**: Detailed precision, recall, and F1 scores for each emotion
 - **Confusion Matrix**: Visualization showing common misclassifications
 - **Per-Actor Analysis**: Shows performance variation due to speaking styles
